@@ -1,5 +1,7 @@
 # vue-front-sample
 
+vue 테스트 프로젝트
+
 ## Project setup
 ```
 npm install
